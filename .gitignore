@@ -1,0 +1,4 @@
+assets/
+.vscode/
+.ycm_extra_conf.py
+app
